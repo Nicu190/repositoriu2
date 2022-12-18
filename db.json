@@ -25,11 +25,11 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+            "name": "Tesla Semi",
+            "description": "Cool transport truck",
             "price": 92,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": ""
         },
         {
             "id": 2,
@@ -53,7 +53,7 @@
             "description": "This indestructible car has everything you need.",
             "price": 70000,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.jpg"
         },
         {
             "id": 5,
