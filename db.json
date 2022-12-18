@@ -28,7 +28,7 @@
             "name": "Tesla Semi",
             "description": "Cool transport truck",
             "price": 100000,
-            "author_id": 2,
+            "author_id": 1,
             "photo_url": "https://cdn.motor1.com/images/mgl/7ZZMxJ/s3/tesla-semi.jpg"
         },
         {
