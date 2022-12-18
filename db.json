@@ -41,7 +41,7 @@
         },
         {
             "id": 3,
-            "name": "ESP8266 5V",
+            "name": "Tesla Roadster",
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
             "price": 300,
             "author_id": 2,
