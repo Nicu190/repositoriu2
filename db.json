@@ -45,7 +45,7 @@
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
             "price": 300,
             "author_id": 2,
-            "photo_url": "C:\Users\HP\Pictures\robotica\tesla-roadster.jpg"
+            "photo_url": "https://www.tesla.com/sites/default/files/images/roadster/roadster-social.jpg"
         },
         {
             "id": 4,
