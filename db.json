@@ -28,8 +28,8 @@
             "name": "Tesla Semi",
             "description": "Cool transport truck",
             "price": 92,
-            "author_id": 1,
-            "photo_url": ""
+            "author_id": 100000,
+            "photo_url": "https://cdn.motor1.com/images/mgl/7ZZMxJ/s3/tesla-semi.jpg"
         },
         {
             "id": 2,
@@ -53,7 +53,7 @@
             "description": "This indestructible car has everything you need.",
             "price": 70000,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.jpg"
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.jpeg"
         },
         {
             "id": 5,
