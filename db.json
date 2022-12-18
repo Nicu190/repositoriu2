@@ -33,11 +33,11 @@
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
+            "name": "Tesla X",
             "description": "Brand new and high quality.",
-            "price": 180,
+            "price": 60000,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://www.tesla.com/assets/img/mx_fb_s.jpg"
         },
         {
             "id": 3,
